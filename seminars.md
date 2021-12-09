@@ -3,26 +3,6 @@ layout: page
 title: Seminars
 ---
 
-### Mirror symmetry working group
-
-Topic: Research discussions between researchers in Beijing and UK.
-
-Organizers: Will Donovan, Mauricio Romo, Lucy Smith, Weilin Su
-
-
-
-### Mirror symmetry working group
-
-Topic: Discussions on the monodromy representation for Appell's system
-
-Organizers: Will Donovan, Mauricio Romo, Weilin Su
-
-
-
-### Seminar Z
-
-Topic:
-
-Organizers:
+On the <a href="http://arxiv.org/a/donovan_w_1">arXiv</a>, <a href="http://scholar.google.co.uk/citations?user=ebG93rYAAAAJ">Google scholar</a>, <a href="http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=971838">MathSciNet</a> and <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a>.
 
 
