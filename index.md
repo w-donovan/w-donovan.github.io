@@ -3,13 +3,10 @@ layout: default
 title: Home
 ---
 
-This site is to support joint academic activities, in particular between research community in China and elsewhere, since international travel has become more difficult due to the pandemic.
+I am [associate professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-155.html) at <a href="http://ymsc.tsinghua.edu.cn/en">Yau MSC</a>, <br><a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html">Tsinghua University</a>, Beijing.
 
-This is a collaboration between [Yau MSC](https://ymsc.tsinghua.edu.cn/), [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/index.html), Beijing, and other international institutions.
+<p></p>
 
+I am also <a href="http://www.bimsa.cn/jyry">adjunct faculty</a> at <a href="http://www.bimsa.cn/wzsy">BIMSA</a>, <br><a href="https://www.travelchinaguide.com/attraction/beijing/yanqi-lake.htm">Yanqi Lake</a>, <a href="https://www.travelchinaguide.com/cityguides/beijing/huairou-district/">Huairou</a>, Beijing.
 
-* University X
-* University Y
-* University Z
-
-For more information, please contact [{{ site.contact }}](mailto:{{ site.contactaddr }}).
+Contact: [{{ site.contact }}](mailto:{{ site.contactaddr }}).
