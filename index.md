@@ -17,4 +17,8 @@ I am also <a href="http://www.bimsa.cn/jyry">adjunct faculty</a> at <a href="htt
 
 My <a href="./documents/cv.pdf">curriculum vitae</a>.
 
+<p></p>
+
+<img width="150" src="./photo.jpg">
+
 Contact: [{{ site.contact }}](mailto:{{ site.contactaddr }}).
