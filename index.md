@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img width="200" src="./photo.jpg">
+
 
 <p></p>
 
