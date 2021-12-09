@@ -10,14 +10,14 @@ url:              https://w-donovan.github.io
 baseurl:          /
 
 # Description text
-title:            'Events hub'
-description:      'Coordinating some joint international events in mathematical sciences'
-location:         'Based at Yau MSC, Beijing'
+title:            'Will Donovan'
+description:      ''
+location:         ''
 
 
 # Parameters
-contact:           'Name'
-contactaddr:       'xxx@mail.tsinghua.edu.cn'
-calendarurl:       'https://teamup.com/ks58v9swjiomt7ii2k'
+contact:           'Will Donovan'
+contactaddr:       'donovan@mail.tsinghua.edu.cn'
+calendarurl:       ''
 
 exclude: [ "README.md" ]
