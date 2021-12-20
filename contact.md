@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bottompage
 title: Contact
 ---
 
