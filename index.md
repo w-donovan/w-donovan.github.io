@@ -12,3 +12,10 @@ title: Home
 - <a href="http://www.bimsa.cn/jyry">Adjunct faculty</a> at <a href="http://www.bimsa.cn/wzsy">BIMSA</a>, <a href="https://www.travelchinaguide.com/attraction/beijing/yanqi-lake.htm">Yanqi Lake</a>, <a href="https://www.travelchinaguide.com/cityguides/beijing/huairou-district/">Huairou</a>, Beijing.
 
 - <a href="https://db.ipmu.jp/member/personal/4007en.html">Visiting associate scientist</a> at <a href="http://www.ipmu.jp/">Kavli IPMU</a>, University of Tokyo.
+
+### Interests
+
+- Algebraic geometry
+- Geometric representation theory
+- Symplectic geometry
+- String theory
