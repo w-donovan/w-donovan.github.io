@@ -5,13 +5,6 @@ title: Research
 
 My <a href="./cv.pdf">curriculum vitae</a>.
 
-### Interests
-
-- Algebraic geometry
-- Geometric representation theory
-- Symplectic geometry
-- String theory
-
 ### Articles
 
 Available on:
