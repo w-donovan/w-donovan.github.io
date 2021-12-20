@@ -11,7 +11,7 @@ My papers on the <a href="http://arxiv.org/a/donovan_w_1">arXiv</a>, <a href="ht
 
 I currently mentor PhD students:
 
-- [Xun Lin]{{http://linlinsai.github.io}}
+- [Xun Lin](http://linlinsai.github.io)
 - Weilin Su
 - Luyu Zheng
 - Nantao Zhang
