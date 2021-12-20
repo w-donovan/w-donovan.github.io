@@ -5,8 +5,8 @@ title: Links
 
 ### Beijing
 
-- [YMSC Strings Group](http://ymsc-strings.github.io/index.html)
 - [Geometric Representation Seminar](http://ymsc.tsinghua.edu.cn/en/content/show/248-338.html)
+- [YMSC String Theory Group](http://ymsc-strings.github.io/index.html)
 
 ### Resources
 
