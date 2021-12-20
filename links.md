@@ -10,7 +10,7 @@ title: Links
 
 ### Resources
 
-RSS feeds provided by <a href="http://arxiv.org/">arXiv</a> for:
+[RSS feeds](http://arxiv.org/help/rss) provided by <a href="http://arxiv.org/">arXiv</a> for:
 
 - <a href="http://export.arxiv.org/rss/math.AG">algebraic
 geometry</a>
