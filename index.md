@@ -7,7 +7,7 @@ title: Home
 
 <p></p>
 
-[Associate professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-155.html) at <a href="http://ymsc.tsinghua.edu.cn/en">Yau MSC</a>, <a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html">Tsinghua University</a>, Beijing.
+[Associate professor](http://ymsc.tsinghua.edu.cn/info/1032/2326.htm) at <a href="http://ymsc.tsinghua.edu.cn/en">Yau MSC</a>, <a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html">Tsinghua University</a>, Beijing.
 
 <p></p>
 
