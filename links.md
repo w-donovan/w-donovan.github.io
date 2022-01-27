@@ -6,7 +6,12 @@ title: Links
 ### Beijing
 
 - [Geometric Representation Seminar](http://ymsc.tsinghua.edu.cn/en/content/show/248-338.html)
-- [YMSC String Theory Group](http://ymsc-strings.github.io/index.html)
+- [Yau MSC String Theory Group](http://ymsc-strings.github.io/index.html)
+
+### Networks
+
+- [Algebraic Geometry in East Asia (AGEA) Seminar](https://sites.google.com/ncts.ntu.edu.tw/agea-seminar)
+- [Yau MSC Events Hub](https://yau-msc-events.github.io)
 
 ### Resources
 
