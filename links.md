@@ -5,7 +5,7 @@ title: Links
 
 ### Beijing
 
-- [Geometric Representation Seminar](http://ymsc.tsinghua.edu.cn/en/content/show/248-338.html)
+- [Geometric Representation Seminar](https://ymsc.tsinghua.edu.cn/en/info/1053/1549.htm)
 - [Yau MSC String Theory Group](http://ymsc-strings.github.io/index.html)
 
 ### Networks
