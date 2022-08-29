@@ -20,7 +20,7 @@ title: Home
 ### Interests
 
 - Algebraic geometry
-- Representation theory
 - Noncommutative geometry
-- Symplectic geometry
+- Representation theory
 - String theory
+- Symplectic geometry
