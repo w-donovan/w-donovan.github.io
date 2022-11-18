@@ -6,7 +6,7 @@ title: Links
 ### Beijing
 
 - [Algebraic Geometry Seminar](https://ymsc.tsinghua.edu.cn/en/info/1053/1547.htm)
-- [Geometric Representation Seminar](https://ymsc.tsinghua.edu.cn/en/info/1053/1549.htm)
+- [Geometric Representation Seminar](https://ymsc.tsinghua.edu.cn/info/1053/1731.htm)
 - [Yau MSC String Theory Group](http://ymsc-strings.github.io/index.html)
  
 ### Networks
