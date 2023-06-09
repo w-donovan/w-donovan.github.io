@@ -19,6 +19,6 @@ Available on:
 I mentor doctoral students:
 
 - [Xun Lin](http://linlinsai.github.io)
-- Weilin Su
+- [Weilin Su](http://wlin-su.github.io)
 - Luyu Zheng
 - Nantao Zhang
