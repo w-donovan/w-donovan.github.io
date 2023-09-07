@@ -6,8 +6,8 @@ title: Mentoring
 ### Postdocs
 
 - Yuxiang Liu
-- Chen Qingjing
-- [Beihui Yuan](http://sites.google.com/view/beihuiyuan/home), jointly with Stephen S-T Yau
+- Qingjing Chen
+- [Beihui Yuan](http://sites.google.com/view/beihuiyuan/home), with Stephen S-T Yau
 
 ### Doctoral students
 
