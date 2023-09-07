@@ -19,8 +19,20 @@ title: Home
 
 ### Interests
 
+I work in geometry and its intersections with physics and algebra, with particular interests as follows.
+
 - Algebraic geometry
 - Noncommutative geometry
 - Representation theory
-- String theory
 - Symplectic geometry
+- Quantum field theory
+
+### Background
+
+I completed my PhD in 2011 at <a href="http://www.ic.ac.uk/mathematics/">Imperial College London</a>, <br>supervised by <a href="http://www.ic.ac.uk/people/richard.thomas">Richard Thomas</a> and <a href="http://www.homepages.ucl.ac.uk/~ucaheps/">Ed Segal</a>. I was a postdoc at <a href="http://www2.maths.ed.ac.uk/">University of Edinburgh</a> with <a href="http://www.maths.ed.ac.uk/~igordon/">Iain Gordon</a>, and then at <a href="http://www.ipmu.jp/">Kavli IPMU</a>, University of Tokyo until 2018.
+
+<p></p>
+
+My <a href="./cv.pdf">curriculum vitae</a>.
+
+
