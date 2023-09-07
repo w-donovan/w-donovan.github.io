@@ -7,7 +7,7 @@ Articles on the <a href="http://arxiv.org/a/donovan_w_1">arXiv</a> and <a href="
 
 Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a href="http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=971838">MathSciNet</a>.
 
-### Perverse sheaves of categories
+### Perverse sheaves of categories, spherical functors
 
 - <a href="http://arxiv.org/abs/1703.00592">Perverse schobers and wall crossing</a>
 - <a href="http://arxiv.org/abs/1801.05319">Perverse schobers on Riemann surfaces: constructions and examples</a>
@@ -27,7 +27,7 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 - <a href="http://arxiv.org/abs/1511.01656">Contractions of 3-folds: deformations and invariants</a>
 - <a href="http://arxiv.org/abs/1703.03243">Applications of noncommutative deformations</a>
 - <a href="http://arxiv.org/abs/1612.01687">Noncommutative enhancements of contractions</a> (with M&nbsp;Wemyss)
-- <a href="http://arxiv.org/abs/1907.10891">Stringy K\"ahler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)
+- <a href="http://arxiv.org/abs/1907.10891">Stringy K&auml;hler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)
 
 ### Landau-Ginzburg B-models, and birational geometry
 
