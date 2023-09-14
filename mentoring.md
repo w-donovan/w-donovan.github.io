@@ -5,7 +5,7 @@ title: Mentoring
 
 ### Postdocs
 
-- Yuxiang Liu
+- Yuxiang Liu, with Jie Wu
 - Qingjing Chen
 - [Beihui Yuan](http://sites.google.com/view/beihuiyuan/home), with Stephen S-T Yau
 
