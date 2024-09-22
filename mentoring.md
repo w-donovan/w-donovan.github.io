@@ -3,17 +3,21 @@ layout: toppage
 title: Mentoring
 ---
 
+### Junior faculty
+
+- [Beihui Yuan](http://sites.google.com/view/beihuiyuan/home), with Stephen S-T Yau
+
 ### Postdocs
 
-- Yuxiang Liu, with Jie Wu
 - Qingjing Chen
-- [Beihui Yuan](http://sites.google.com/view/beihuiyuan/home), with Stephen S-T Yau
+- [Alicia Lamarche](http://alicialamarche.com)
+- [Aimeric Malter](http://sites.google.com/view/aimericmalter), with Artan Sheshmani
 
 ### Doctoral students
 
 - [Weilin Su](http://wlin-su.github.io)
 - Luyu Zheng
-- Nantao Zhang
+- [Nantao Zhang](http://zenith-john.github.io)
 
 ### Former students
 
