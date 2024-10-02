@@ -7,7 +7,11 @@ Articles on the <a href="http://arxiv.org/a/donovan_w_1">arXiv</a> and <a href="
 
 Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a href="http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=971838">MathSciNet</a>.
 
-### Perverse sheaves of categories, spherical functors
+### Singularities, derived symmetries, and ambient spaces
+
+- <a href="http://arxiv.org/abs/2409.19555">Derived symmetries for crepant contractions to hypersurfaces</a>
+
+### Perverse sheaves of categories, semiorthogonal decompositions
 
 - <a href="http://arxiv.org/abs/1703.00592">Perverse schobers and wall crossing</a>
 - <a href="http://arxiv.org/abs/1801.05319">Perverse schobers on Riemann surfaces: constructions and examples</a>
