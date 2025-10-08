@@ -48,3 +48,4 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 - <a href="http://arxiv.org/abs/1111.3774/">Grassmannian twists on the derived category via spherical functors</a>
 - <a href="http://arxiv.org/abs/1206.0219">Window shifts, flop equivalences and Grassmannian twists</a> (with E&nbsp;Segal)
 - <a href="http://arxiv.org/abs/1304.2913">Grassmannian twists, derived equivalences and brane transport</a>
+- <a href="http://arxiv.org/abs/2510.06184">Window categories for a simple 9-fold flop of Grassmannian type</a> (with W&nbsp;Hara, M&nbsp;Kapustka and M&nbsp;Rampazzo)
