@@ -43,7 +43,7 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 - <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)
 - <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
 
-### Grassmannian twists, and window shifts
+### Grassmannian flops
 
 - <a href="http://arxiv.org/abs/1111.3774/">Grassmannian twists on the derived category via spherical functors</a>
 - <a href="http://arxiv.org/abs/1206.0219">Window shifts, flop equivalences and Grassmannian twists</a> (with E&nbsp;Segal)
