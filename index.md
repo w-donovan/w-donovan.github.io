@@ -19,7 +19,7 @@ title: Home
 
 ### Interests
 
-I work in geometry and its intersections with physics and algebra, with particular interests as follows.
+I work in geometry and its intersections with algebra and physics, with particular interests as follows.
 
 - Algebraic geometry
 - Noncommutative geometry
