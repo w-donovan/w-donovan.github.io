@@ -17,6 +17,7 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 - <a href="http://arxiv.org/abs/1703.03243">Applications of noncommutative deformations</a>
 - <a href="http://arxiv.org/abs/1612.01687">Noncommutative enhancements of contractions</a> (with M&nbsp;Wemyss)
 - <a href="http://arxiv.org/abs/1907.10891">Stringy K&auml;hler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)
+- <a href="http://arxiv.org/abs/2512.19140">Quiver braid group action for a 3-fold crepant resolution</a> (with Luyu Zheng)
 
 ### Grassmannian flops
 
