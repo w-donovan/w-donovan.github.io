@@ -20,35 +20,35 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 **2019** <a href="http://arxiv.org/abs/1907.10891">Stringy K&auml;hler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)\
 **2025** <a href="http://arxiv.org/abs/2512.19140">Quiver braid group action for a 3-fold crepant resolution</a> (with Luyu Zheng)
 
-### Grassmannian flops
-
-- <a href="http://arxiv.org/abs/1111.3774/">Grassmannian twists on the derived category via spherical functors</a>
-- <a href="http://arxiv.org/abs/1206.0219">Window shifts, flop equivalences and Grassmannian twists</a> (with E&nbsp;Segal)
-- <a href="http://arxiv.org/abs/1304.2913">Grassmannian twists, derived equivalences and brane transport</a>
-- <a href="http://arxiv.org/abs/2510.06184">Window categories for a simple 9-fold flop of Grassmannian type</a> (with W&nbsp;Hara, M&nbsp;Kapustka and M&nbsp;Rampazzo)
-
 ### Singularities, derived symmetries, and ambient spaces
 
-- <a href="http://arxiv.org/abs/2409.19555">Derived symmetries for crepant contractions to hypersurfaces</a>
-
-### Hyperk&auml;hler geometry
-
-- <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)
-- <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
-
-### Landau-Ginzburg B-models, birational geometry
-
-- <a href="http://arxiv.org/abs/1401.3661">The Pfaffian-Grassmannian equivalence revisited</a> (with N&nbsp;Addington and E&nbsp;Segal)
-- <a href="https://arxiv.org/abs/2009.12630">Stringy K&auml;hler moduli for the Pfaffian-Grassmannian correspondence</a>
+**2024** <a href="http://arxiv.org/abs/2409.19555">Derived symmetries for crepant contractions to hypersurfaces</a>
 
 ### Perverse sheaves of categories, semiorthogonal decompositions
 
-- <a href="http://arxiv.org/abs/1703.00592">Perverse schobers and wall crossing</a>
-- <a href="http://arxiv.org/abs/1801.05319">Perverse schobers on Riemann surfaces: constructions and examples</a>
-- <a href="http://arxiv.org/abs/1903.11226">Mirror symmetry for perverse schobers from birational geometry</a> (with T&nbsp;Kuwagaki)
-- <a href="http://arxiv.org/abs/2307.09888">Root stacks and periodic decompositions</a> (with A&nbsp;Bodzenta)
+**2017** <a href="http://arxiv.org/abs/1703.00592">Perverse schobers and wall crossing</a>\
+**2018** <a href="http://arxiv.org/abs/1801.05319">Perverse schobers on Riemann surfaces: constructions and examples</a>\
+**2019** <a href="http://arxiv.org/abs/1903.11226">Mirror symmetry for perverse schobers from birational geometry</a> (with T&nbsp;Kuwagaki)\
+**2023** <a href="http://arxiv.org/abs/2307.09888">Root stacks and periodic decompositions</a> (with A&nbsp;Bodzenta)
+
+### Grassmannian flops
+
+**2011** <a href="http://arxiv.org/abs/1111.3774/">Grassmannian twists on the derived category via spherical functors</a>\
+**2012** <a href="http://arxiv.org/abs/1206.0219">Window shifts, flop equivalences and Grassmannian twists</a> (with E&nbsp;Segal)\
+**2013** <a href="http://arxiv.org/abs/1304.2913">Grassmannian twists, derived equivalences and brane transport</a>\
+**2025** <a href="http://arxiv.org/abs/2510.06184">Window categories for a simple 9-fold flop of Grassmannian type</a> (with W&nbsp;Hara, M&nbsp;Kapustka and M&nbsp;Rampazzo)
 
 ### Simplices of flops
 
-- <a href="http://arxiv.org/abs/2108.10541">Relating derived equivalences for simplices of higher-dimensional flops</a>
+**2021** <a href="http://arxiv.org/abs/2108.10541">Relating derived equivalences for simplices of higher-dimensional flops</a>
+
+### Hyperk&auml;hler geometry
+
+**2015** <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)\
+**2015** <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
+
+### Landau-Ginzburg B-models, birational geometry
+
+**2014** <a href="http://arxiv.org/abs/1401.3661">The Pfaffian-Grassmannian equivalence revisited</a> (with N&nbsp;Addington and E&nbsp;Segal)\
+**2020** <a href="https://arxiv.org/abs/2009.12630">Stringy K&auml;hler moduli for the Pfaffian-Grassmannian correspondence</a>
 
