@@ -13,9 +13,7 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 **2013** <a href="http://arxiv.org/abs/1309.0698">Noncommutative deformations and flops</a> (with M&nbsp;Wemyss)\
 **2015** <a href="http://arxiv.org/abs/1511.00406">Contractions and deformations</a> (with M&nbsp;Wemyss)\
 **2015** <a href="http://arxiv.org/abs/1504.05320">Twists and braids for general 3-fold flops</a> (with M&nbsp;Wemyss)\
-**2015** <a href="http://arxiv.org/abs/1511.01656">Contractions of 3-folds: deformations and invariants</a>\
 **2016** <a href="http://arxiv.org/abs/1612.01687">Noncommutative enhancements of contractions</a> (with M&nbsp;Wemyss)\
-**2017** <a href="http://arxiv.org/abs/1703.03243">Applications of noncommutative deformations</a>\
 **2019** <a href="http://arxiv.org/abs/1907.10891">Stringy K&auml;hler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)\
 **2025** <a href="http://arxiv.org/abs/2512.19140">Quiver braid group action for a 3-fold crepant resolution</a> (with Luyu Zheng)
 
@@ -34,7 +32,6 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 
 **2011** <a href="http://arxiv.org/abs/1111.3774/">Grassmannian twists on the derived category via spherical functors</a>\
 **2012** <a href="http://arxiv.org/abs/1206.0219">Window shifts, flop equivalences and Grassmannian twists</a> (with E&nbsp;Segal)\
-**2013** <a href="http://arxiv.org/abs/1304.2913">Grassmannian twists, derived equivalences and brane transport</a>\
 **2025** <a href="http://arxiv.org/abs/2510.06184">Window categories for a simple 9-fold flop of Grassmannian type</a> (with W&nbsp;Hara, M&nbsp;Kapustka and M&nbsp;Rampazzo)
 
 ### Simplices of flops
@@ -51,3 +48,8 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 **2014** <a href="http://arxiv.org/abs/1401.3661">The Pfaffian-Grassmannian equivalence revisited</a> (with N&nbsp;Addington and E&nbsp;Segal)\
 **2020** <a href="https://arxiv.org/abs/2009.12630">Stringy K&auml;hler moduli for the Pfaffian-Grassmannian correspondence</a>
 
+### Proceedings articles
+
+**2013** <a href="http://arxiv.org/abs/1304.2913">Grassmannian twists, derived equivalences and brane transport</a>\
+**2015** <a href="http://arxiv.org/abs/1511.01656">Contractions of 3-folds: deformations and invariants</a>\
+**2017** <a href="http://arxiv.org/abs/1703.03243">Applications of noncommutative deformations</a>
