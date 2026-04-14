@@ -16,7 +16,7 @@ title: Mentoring
 ### Doctoral students
 
 - [Weilin Su](http://wlin-su.github.io) (2019-25)
-- Luyu Zheng (2020-25)
+- [Luyu Zheng](http://zhengluyu2505.github.io) (2020-25)
 - [Nantao Zhang](http://zenith-john.github.io) (2021-)
 
 ### Former students
