@@ -15,11 +15,15 @@ title: Home
 
 <p></p>
 
+<a href="http://www.simis.cn/camc/organization">Institution representative</a> for <a href="http://www.simis.cn/camc/about">China–Africa Mathematics Center</a>.
+
+<p></p>
+
 <a href="https://db.ipmu.jp/member/personal/4007en.html">Visiting associate scientist</a> at <a href="http://www.ipmu.jp/">Kavli IPMU</a>, University of Tokyo.
 
 ### Interests
 
-I work in geometry and its intersections with algebra and physics, with particular interests as follows.
+I work in geometry and its intersections with algebra and physics, in particular:
 
 - Algebraic geometry
 - Noncommutative geometry
