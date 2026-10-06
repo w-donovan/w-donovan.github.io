@@ -6,8 +6,8 @@ title: Mentoring
 ### Postdocs
 
 - [Marco Rampazzo](http://marcorampazzo.com) (2026-)
-- [Aimeric Malter](http://sites.google.com/view/aimericmalter), with Artan Sheshmani (2024-)
-- [Alicia Lamarche](http://alicialamarche.com) (2024-)
+- [Aimeric Malter](http://sites.google.com/view/aimericmalter), with Artan Sheshmani (2024-26)
+- [Alicia Lamarche](http://alicialamarche.com) (2024-26)
 - Qingjing Chen (2023-24)
 
 ### Junior faculty
