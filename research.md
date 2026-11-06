@@ -15,7 +15,13 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 **2015** <a href="http://arxiv.org/abs/1504.05320">Twists and braids for general 3-fold flops</a> (with M&nbsp;Wemyss)\
 **2016** <a href="http://arxiv.org/abs/1612.01687">Noncommutative enhancements of contractions</a> (with M&nbsp;Wemyss)\
 **2019** <a href="http://arxiv.org/abs/1907.10891">Stringy K&auml;hler moduli, mutation and monodromy</a> (with M&nbsp;Wemyss)\
-**2025** <a href="http://arxiv.org/abs/2512.19140">Quiver braid group action for a 3-fold crepant resolution</a> (with Luyu Zheng)
+**2025** <a href="http://arxiv.org/abs/2512.19140">Quiver braid group action for a 3-fold crepant resolution</a> (with Luyu&nbsp;Zheng)
+
+### Hyperk&auml;hler geometry
+
+**2015** <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)\
+**2015** <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
+**2026** <a href="http://arxiv.org/abs/2611.04118">D-equivalence conjecture for hyperk&auml;hler varieties of generalized Kummer type</a> (with Chengxi&nbsp;Wang and Nantao&nbsp;Zhang)
 
 ### Singularities, derived symmetries, and ambient spaces
 
@@ -37,11 +43,6 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 ### Simplices of flops
 
 **2021** <a href="http://arxiv.org/abs/2108.10541">Relating derived equivalences for simplices of higher-dimensional flops</a>
-
-### Hyperk&auml;hler geometry
-
-**2015** <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)\
-**2015** <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
 
 ### Landau-Ginzburg B-models, birational geometry
 
