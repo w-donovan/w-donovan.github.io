@@ -20,7 +20,7 @@ Reviews on <a href="https://www.zbmath.org/?q=ai:donovan.will">zbMATH</a> and <a
 ### Hyperk&auml;hler geometry
 
 **2015** <a href="http://arxiv.org/abs/1507.02597">Moduli spaces of torsion sheaves on K3 surfaces and derived equivalences</a> (with N&nbsp;Addington and C&nbsp;Meachan)\
-**2015** <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)
+**2015** <a href="http://arxiv.org/abs/1507.02595">Mukai flops and <b>P</b>-twists</a> (with N&nbsp;Addington and C&nbsp;Meachan)\
 **2026** <a href="http://arxiv.org/abs/2611.04118">D-equivalence conjecture for hyperk&auml;hler varieties of generalized Kummer type</a> (with Chengxi&nbsp;Wang and Nantao&nbsp;Zhang)
 
 ### Singularities, derived symmetries, and ambient spaces
